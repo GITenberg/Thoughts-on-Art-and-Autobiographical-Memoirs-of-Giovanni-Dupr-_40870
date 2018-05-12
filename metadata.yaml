@@ -1,0 +1,33 @@
+_repo: Thoughts-on-Art-and-Autobiographical-Memoirs-of-Giovanni-Dupr-_40870
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Peruzzi, E. M.
+    gutenberg_agent_id: '40865'
+    url: http://www.gutenberg.org/2009/agents/40865
+covers:
+- cover_type: archival
+  image_path: 40870-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Duprè, Giovanni
+    alias: Dupre, Giovanni
+    birthdate: 1817
+    deathdate: 1882
+    gutenberg_agent_id: '40864'
+    url: http://www.gutenberg.org/2009/agents/40864
+description: ''
+gutenberg_issued: '2012-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Duprè, Giovanni, 1817-1882'
+- !lcsh 'Artists -- Italy -- Biography'
+- !lcc 'NB'
+title: Thoughts on Art and Autobiographical Memoirs of Giovanni Duprè
+url: http://www.gutenberg.org/ebooks/40870
