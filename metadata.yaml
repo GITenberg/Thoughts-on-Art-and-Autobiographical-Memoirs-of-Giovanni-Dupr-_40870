@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '40864'
     url: http://www.gutenberg.org/2009/agents/40864
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40870#Thoughts-on-Art-and-Autobiographical-Memoirs-of-Giovanni-Dupr-
 gutenberg_issued: '2012-09-26'
 gutenberg_type: Text
 identifiers:
